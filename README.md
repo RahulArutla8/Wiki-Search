@@ -1,2 +1,25 @@
-# Wiki-Search
-Wiki Search is a dynamic web application that lets users search for articles using a custom WikiSearch API provided by NxtWave. It displays relevant results based on user input, including the title, link, and description for each entry. The app uses modern JavaScript features and Bootstrap for a clean, responsive UI.
+
+# 🌐 Wiki Search App
+
+Wiki Search is a responsive web application built with HTML, CSS, and JavaScript. It allows users to search for articles using **NxtWave’s custom WikiSearch API** and displays the results with a clean and interactive UI.
+
+---
+
+## 🚀 Features
+
+- 🔍 Search articles by keyword (press Enter to search)
+- ⚡ Real-time data fetched using Fetch API
+- ⏳ Loading spinner while results are being fetched
+- 📄 Displays article title, link, and description
+- 💻 Responsive design using Bootstrap 4
+- 🎨 Custom CSS with gradient background
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3 (with Bootstrap 4)**
+- **JavaScript (ES6)**
+- **NxtWave WikiSearch API**
+
