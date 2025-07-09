@@ -5,6 +5,11 @@ Wiki Search is a responsive web application built with HTML, CSS, and JavaScript
 
 ---
 
+## 🌐 Live Demo
+[Click here to view the live app](https://rahul-arutla-wiki-search.netlify.app/)
+
+---
+
 ## 🚀 Features
 
 - 🔍 Search articles by keyword (press Enter to search)
