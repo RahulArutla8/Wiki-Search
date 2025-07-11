@@ -34,7 +34,7 @@ function createAndAppendSearchResult(searchResult){
     resultItemEl.appendChild(descriptionEl);
     
     
-}
+};
 function displayResults(search_results){
     spinnerEl.classList.toggle("d-none");
     for (let result of search_results){
